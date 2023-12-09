@@ -1,4 +1,4 @@
-# Oskar-Fran-Phoebe
+# Jason-Fran-Phoebe
 Discord Bot!
 
 How to run me:
