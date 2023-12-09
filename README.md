@@ -1,5 +1,14 @@
 # Jason-Fran-Phoebe
-Discord Bot!
+
+User stories:
+- As a user, I want the bot to cater to my specific learning needs, e.g. dyslexia
+- As a user, I want to tell the bot if I have a preferred learning style, e.g. videos vs text
+- As a user, I want to specify the length and regularity of my learning session(s)
+- As a user, I want to specify the type of project or questions which my bot gives me
+- As a user, I want the bot to know my level of understanding and ensure questions/projects are the correct level of challenge
+- As a user, I want the bot to reduce my cognitive load buy giving me default options
+
+
 
 How to run me:
 1. Clone the repository
