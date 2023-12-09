@@ -2,8 +2,6 @@ require("dotenv").config();
 const openai = require("openai");
 const fetch = require("node-fetch");
 const openaikey = process.env.OPENAI;
-//const openai = new OpenAI();
-//openai.ChatCompletion.create()
 
 function openaiResponse(message) {
   const endpoint = "https://api.openai.com/v1/chat/completions";
